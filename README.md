@@ -1,20 +1,17 @@
-### <div align="center">Hi.. i'm Ahmed Ayman👋</div>  
-  
+### <div align="center">Hi.. i'm Ahmed Ayman👋</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=536&height=168&lines=computer+science+student;pupil+on+codeforces;competitive+programmer;+Always+learning+new+things" alt="Typing SVG" /></a>
+</div>
 
 - 💻 I’m currently learning Computer Science  
-  
 
 - 🌱 I am a Junior at Faculty of Computers & Informatics at Suez Canal University  
-  
 
 - 👨‍💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode  
-  
 
 - 📖Always learning new things.  
-  
 
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">  
