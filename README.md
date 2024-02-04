@@ -3,8 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&random=false&width=480&height=144&lines=computer+science+student;Always+learning+something+new;Specialist+on+codeforces;competitive+programmer" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">computer science student</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-ayman-25a9b2248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ayman-25a9b2248" height="30" width="40" /></a>
