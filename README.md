@@ -1,6 +1,6 @@
 # <div align="center">Hi.. i'm Ahmed Ayman👋</div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=computer+science+student;Always+learning+new+things;Specialist+on+codeforces;competitive+programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=114&lines=computer+science+student;Always+learning+new+things;Specialist+on+codeforces;competitive+programmer" alt="Typing SVG" /></a>
 </div>
 
 - 💻 I’m currently learning Computer Science  
