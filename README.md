@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ayman</h1>
 <h3 align="center">AI Engineer | Passionate about solving real-world problems with Artificial Intelligence</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Always+learning+something+new;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Let's+connect+and+build+something+great!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🤖 About Me
