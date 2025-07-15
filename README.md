@@ -5,7 +5,7 @@
 
 ## 🤖 About Me
 
-- 🧠 I am an AI Engineer with a strong background in machine learning, deep learning, and data engineering.
+- 🧠 I am an AI Engineer with a strong background in machine learning, deep learning.
 - 🚀 I love building intelligent systems that create value from data and drive innovation in real-world applications.
 - 💡 Always eager to learn about new technologies, frameworks, and research in the field of AI.
 
