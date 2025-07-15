@@ -71,9 +71,7 @@
 
 ## 🐍 Snake Eating My Contribution Graph
 
-<p align="center">
-  ![snake gif](https://github.com/AhmedAyman77/AhmedAyman77/blob/output/github-contribution-grid-snake.svg)
-</p>
+![snake gif](https://github.com/AhmedAyman77/AhmedAyman77/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
