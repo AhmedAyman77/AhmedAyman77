@@ -15,6 +15,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ahmed-ayman-25a9b2248" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+---
+
+## 👨‍💻 Coding Profiles
+
+<p align="left">
   <a href="https://kaggle.com/ahmedayman777" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/__ahmedayman__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/a7med_ayman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
