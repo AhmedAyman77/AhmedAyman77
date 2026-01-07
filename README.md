@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ayman</h1>
-<h3 align="center">AI Engineer | Passionate about solving real-world problems with Artificial Intelligence</h3>
+<h3 align="center">AI Engineer | Backend nodejs developer</h3>
 
 ---
 
