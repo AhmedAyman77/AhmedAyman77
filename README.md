@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ahmed Ayman</h1>
-<h3 align="center">Software Engineer & AI Engineer | Backend · Generative AI · MLOps</h3>
+<h3 align="center">Software Engineer & AI Engineer | Backend · Generative AI</h3>
 
 ---
 
